@@ -1,4 +1,4 @@
----
+[---
 name: prompting-standards
 description: Use when drafting, improving, or reviewing a prompt for a Claude product (Chat, Code, Cowork, Design, API/Platform) or asking how to prompt a specific Claude model (Haiku 5.5, Sonnet 5.5, Opus 5.5, Fable 5.2, Mythos 5.2) well.
 ---
@@ -280,3 +280,4 @@ Before ending your turn, check your last paragraph. If it is a plan, analysis, o
 - The section 6 Fable 5.2 corrections carry over from the 5.1 guide and launch notes; confirm against the dedicated 5.2 prompting guide before relying on them. Rumored models beyond the current lineup are uncorroborated.
 - A reported agent "dreaming" memory mode is unverified.
 - The Projects redesign is beta and limited to Claude Code cloud sessions; confirm availability before assuming it applies elsewhere.
+](https://www.pnas.org/doi/10.1073/pnas.2208839120)
